@@ -1,5 +1,5 @@
 # Multi-scale Selective Hierarchical biQuadratic Pooling(MSHQP)
- A implementation of Fine-grained image classification via multi-scale selective hierarchical biquadratic pooling(MSHQP).[here](https://doi.org/10.1145/3492221)
+ A implementation of Fine-grained image classification via multi-scale selective hierarchical biquadratic pooling(MSHQP).[Paper link](https://doi.org/10.1145/3492221)
 
 
 ## Requirements
