@@ -40,3 +40,12 @@ Step 4. Fine-tune all layers.
 
 ## Resnet-50 and VGG
  We are still finishing the final code of Resnet-50 and VGG. Moreover, the model structure of Resnet-50 is very similar to that of Resnet-152, so you can freely modify it to get what you want.
+ 
+## Trained model
+- Download the trained model.
+[cub_result_net34.pth](https://drive.google.com/file/d/1u44aGX9P5BclQnJWlWS3AE1-ZXbEXDcQ/view?usp=sharing)
+[cub_result_net152.pth](https://drive.google.com/file/d/1vTFC_rmUXtZZks3PSKVvjis-cw3od8m3/view?usp=sharing)
+[car_result_net34.pth](https://drive.google.com/file/d/1G3qFx_gGfye0C1vswVLiAStNF3u282uJ/view?usp=sharing)
+[car_result_net152.pth](https://drive.google.com/file/d/1q190LaMp0IBZfJZXuB6X_PAI2zCqpbKo/view?usp=sharing)
+[air_result_net34.pth](https://drive.google.com/file/d/1ioDw2DEdgz5dZ9R2QINw00pM4JVkwkp2/view?usp=sharing)
+[air_result_net152.pth](https://drive.google.com/file/d/1uDNf4LvUybhA9rMiRc6hK2zgSrBpif2A/view?usp=sharing)
